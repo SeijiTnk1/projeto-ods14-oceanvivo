@@ -1,0 +1,79 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f4f1ea;
+    color: #2b2b2b;
+    line-height: 1.6;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #1f2d3d;
+}
+
+#cabecalho {
+    background-color: #1f2d3d;
+    color: #f4f1ea;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+#menu {
+    background-color: #e4dfd2;
+    text-align: center;
+    padding: 1rem;
+}
+
+.nome {
+    font-size: 2rem;
+}
+
+.subtitulo {
+    font-style: italic;
+    color: #d8cfa9;
+}
+
+.foto-perfil {
+    border: 4px solid #c9a227;
+    border-radius: 8px;
+}
+
+.secao {
+    max-width: 700px;
+    margin: 1.5rem auto;
+    padding: 1rem 1.5rem;
+    background-color: #ffffff;
+}
+
+.projeto h3 {
+    font-style: oblique;
+    color: #1f2d3d;
+}
+
+a[target="_blank"] {
+    color: #8a5a00;
+    font-weight: 700;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1f2d3d;
+}
+
+a:hover {
+    color: #c9a227;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.85rem;
+    color: #6b6b6b;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
